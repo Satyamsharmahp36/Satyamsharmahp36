@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamsharmahp36" alt="satyamsharmahp36" /></a> </p>
 
-<h2>40+ Projects on StackBuzz</h2> Checkout :- https://stackblitz.com/@Satyamsharmahp36
+<h2>45+ Projects on StackBuzz</h2> Checkout :- https://stackblitz.com/@Satyamsharmahp36
 
 
 - 🔭 I’m currently working on [front end development](https://satyamsharmahp36.github.io/CosmoCook/)
