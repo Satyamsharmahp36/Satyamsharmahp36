@@ -1,30 +1,194 @@
 <h1 align="center">Hi 👋, I'm Satyam Sharma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsharmahp36&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsharmahp36" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer | AI Enthusiast | Backend Engineer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamsharmahp36" alt="satyamsharmahp36" /></a> </p>
-
-<h2>45+ Projects on StackBuzz</h2> Checkout :- https://stackblitz.com/@Satyamsharmahp36
-
-
-- 🔭 I’m currently working on [front end development](https://satyamsharmahp36.github.io/CosmoCook/)
-
-- 🌱 I’m currently learning **tailwind , React**
-
-- 📫 How to reach me **satyamworks20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-sharma-a21041289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-sharma-a21041289" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/knowledge_glimpses_with_satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knowledge_glimpses_with_satyam" height="30" width="40" /></a>
+<p align="center">
+Building scalable applications with MERN, Spring Boot, Kafka & AI
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsharmahp36&show_icons=true&locale=en&layout=compact" alt="satyamsharmahp36" /></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Satyam%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamsharmahp36&show_icons=true&locale=en" alt="satyamsharmahp36" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsharmahp36&" alt="satyamsharmahp36" /></p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Kafka;AI+%2F+ML+Explorer;Building+Real-Time+Applications;Open+Source+Contributor;MERN+Stack+Developer" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **real-time scalable applications**
+- 🌱 Exploring **AI/ML, LangChain, TensorFlow & System Design**
+- 💡 Passionate about **Backend Engineering & Distributed Systems**
+- ⚡ Love building with **Kafka, MERN, Spring Boot & React Native**
+- 🎯 Goal: Building impactful products combining **AI + Scale**
+- 🧠 45+ Projects built on StackBlitz
+- 🚀 Software Developer with hands-on industry experience
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/satyam-sharma-a21041289">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.youtube.com/c/knowledge_glimpses_with_satyam">
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:satyamworks20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://stackblitz.com/@Satyamsharmahp36">
+<img src="https://img.shields.io/badge/StackBlitz-45%2B%20Projects-blueviolet?style=for-the-badge&logo=stackblitz"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,figma" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase" />
+</p>
+
+---
+
+## ☁️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kafka,linux,postman,vscode" />
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tesseract-OCR-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-RealTime-orange?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚚 Real-Time Delivery Tracking System
+- Kafka + Spring Boot + React
+- Live location updates using WebSockets
+- Real-time scalable architecture
+
+</td>
+
+<td width="50%">
+
+### 📈 Stock Market Simulation System
+- Kafka-powered live stock updates
+- Real-time graph visualization
+- Event-driven backend architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Personal AI Chat Assistant
+- TensorFlow + MERN Stack
+- Dynamic AI knowledge base
+- Context-aware responses
+
+</td>
+
+<td width="50%">
+
+### 🍱 Saral
+- Simplifies packaged food labels
+- Helps users understand ingredients
+- Health-focused product analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamsharmahp36&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsharmahp36&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsharmahp36&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=satyamsharmahp36&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - AI Engineering
+  - Distributed Systems
+  - Scalable Backend Architecture
+
+Building:
+  - Real-time applications
+  - AI-powered products
+  - Kafka event-driven systems
